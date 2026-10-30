@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nifal Saad 👋
 
-<!--
-**nifal-sa/nifal-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
 
-Here are some ideas to get you started:
+💼 Interested in Business Analysis and Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Learning
+- SQL
+- Business Analysis
+- Requirements Analysis
+- Data Analysis
+
+### Currently Learning
+- SQL
+- Business Analysis
+
+### Goals
+Building practical projects and developing my skills in data and business analysis.
+
